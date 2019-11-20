@@ -92,7 +92,7 @@ $git checkout <id_ultimo_commit>
 	32. $git log // $git checkout <id_primer_commit>
 	33. $git checkout <id_ultimo_commit>
 	34. $git reflog // $git checkout <id_primer_commit> // $git tag inicial // $git checkout <id_paso10> // $git tag styled // $git checkout <id_paso18> // $git tag htmlify // $git checkout <id_paso30> // $git tag title
-git checkout hmlify
+	35. git checkout hmlify
 
 
 
